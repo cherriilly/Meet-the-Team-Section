@@ -46,7 +46,7 @@
 
   .grid_container{
     display: grid;
-    grid-template-columns: repeat(4,1fr);
+    grid-template-columns: repeat(4,330px);
     grid-template-rows: repeat(2, 330px);
     margin: 60px;
     
